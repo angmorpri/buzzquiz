@@ -284,7 +284,6 @@ def get(
                 data.append(status)
             elif format == "event":
                 try:
-                    print(">>> [get]", _last_status, status)
                     event = _last_status - status
                 except ValueError:
                     continue
