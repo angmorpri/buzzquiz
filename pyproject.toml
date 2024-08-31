@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pybuzz"
+name = "buzzquiz"
 version = "0.1.0"
 description = "Handle the controllers of PS2 Buzz!"
 authors = ["angmorpri <angelmorenoprieto@gmail.com>"]

@@ -2,8 +2,8 @@
 # 26/08/2024
 """Common games for Buzz! controllers"""
 
-from pybuzz import buzz
-from pybuzz.controllers import Button, Controller
+from buzzquiz import buzz
+from buzzquiz.controllers import Button, Controller
 
 
 def buzz_and_answer(

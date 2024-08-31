@@ -7,7 +7,7 @@ from enum import Enum
 
 import hid
 
-from pybuzz import buzz
+from buzzquiz import buzz
 
 
 class Button(str, Enum):

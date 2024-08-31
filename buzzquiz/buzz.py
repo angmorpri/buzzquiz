@@ -13,8 +13,8 @@ import atexit
 
 import hid
 
-from pybuzz import lights, reader
-from pybuzz.controllers import Button, Controller, ControllerSet
+from buzzquiz import lights, reader
+from buzzquiz.controllers import Button, Controller, ControllerSet
 
 
 class BuzzError(Exception):

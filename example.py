@@ -2,9 +2,8 @@
 # 27/08/2024
 
 
-from pybuzz import buzz
-from pybuzz.games import buzz_and_answer
-
+from buzzquiz import buzz
+from buzzquiz.games import buzz_and_answer
 
 if __name__ == "__main__":
     buzz.init(3)

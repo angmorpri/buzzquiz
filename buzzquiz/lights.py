@@ -12,7 +12,7 @@ import time
 import queue
 from enum import Enum
 
-from pybuzz import buzz
+from buzzquiz import buzz
 
 
 DEFAULT_QUEUE_TIMEOUT = 0.1

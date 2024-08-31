@@ -19,8 +19,8 @@ import queue
 from copy import deepcopy
 from typing import Iterator, Literal
 
-from pybuzz import buzz
-from pybuzz.controllers import Button, Controller, ControllerSet
+from buzzquiz import buzz
+from buzzquiz.controllers import Button, Controller, ControllerSet
 
 
 DEFAULT_QUEUE_TIMEOUT = 0.1
